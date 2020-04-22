@@ -2,13 +2,17 @@ terraform {
   backend "s3" {}
 }
 
+variable "aws_route53_zone" {
+  description = "This is the AWS Route53 DNS Zone that will host your resume."
+}
+
 provider "aws" {
   alias = "acm"
   region = "us-east-1"
 }
 
 data "aws_route53_zone" "zone" {
-  name = "carlosnunez.me."
+  name = "${var.aws_route53_zone}"
 }
 
 resource "random_string" "bucket" {
@@ -24,7 +28,7 @@ resource "aws_s3_bucket" "resume" {
 
 resource "aws_acm_certificate" "cert" {
   provider = aws.acm
-  domain_name = "resume.carlosnunez.me"
+  domain_name = "resume.${var.aws_route53_zone}"
   validation_method = "DNS"
   lifecycle {
     create_before_destroy = true
@@ -89,7 +93,7 @@ resource "aws_cloudfront_distribution" "resume" {
   enabled             = true
   is_ipv6_enabled     = true
   default_root_object = "index.html"
-  aliases = ["resume.carlosnunez.me"]
+  aliases = ["resume.${var.aws_route53_zone}"]
 
   default_cache_behavior {
     allowed_methods  = ["DELETE", "GET", "HEAD", "OPTIONS", "PATCH", "POST", "PUT"]
