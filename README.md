@@ -1,76 +1,61 @@
-The Markdown Resume
-===================
+Resume!
+========
 
-### Instructions
-```bash
-git clone https://github.com/mszep/pandoc_resume
-cd pandoc_resume
-vim markdown/resume.md   # insert your own resume info
-make
-```
+This is your resume. There are many like it, but this one is yours.
 
-### Running Dockerized
-```bash
-git clone https://github.com/mszep/pandoc_resume
-cd pandoc_resume
-vim markdown/resume.md   # insert your own resume info
-docker-compose up -d
-```
+How do I update it?
+-------------------
 
-### Requirements
+### Prerequisites
 
-* ConTeXt 0.6X
-* pandoc 2.x
-    * 1.x is deprecated
+- You'll need to install Docker on your computer first.
+  [Here's how you can install that.](https://docs.docker.com/docker-for-mac/)
 
-Last tested on the above versions and that's not to say the later versions won't work. Please try to use the latest versions when possible.
+- You'll also need to have Git installed to clone and update this repository.
+  If you have a Mac, you already have it! [Follow these
+  instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  to install Git on Windows.
 
-#### Debian / Ubuntu
+- You'll also need a code editor to make changes to your resume.
+  I recommend Visual Studio Code. Click [here](https://code.visualstudio.com/download)
+  to download and install it.
 
-```bash
-sudo apt install pandoc context
-```
+- You'll also need an `env.gpg`, a file in your repository that contains settings for the stuff in
+  [Amazon Web Services](https://aws.com) that will host your resume.
 
-#### Fedora
-```bash
-sudo dnf install pandoc texlive-collection-context
-```
+  [Email me](mailto:dev@carlosnunez.me) to get a new one.
 
-#### Arch
-```bash
-sudo pacman -S pandoc texlive-core
-```
+### Okay! I've got everything. Let's go!
 
-#### OSX
-```bash
-brew install pandoc
-brew cask install mactex
-```
+1. Create a new secret in your GitHub repository called `env_file_encryption_key`.
+   [Click
+   here](https://help.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets)
+   to learn how to create new secrets for your GitHub repository.
 
-### Troubleshooting
+   Paste the environment password that you received into the value for the
+   `env_file_encryption_key` secret.
 
-#### Get versions
+2. Open Terminal (Command + Space, type "Terminal"). Use `git` to clone this
+   repository: `git clone <url_in_address_bar>`. Git  will create a new folder
+   called `resume` from wherever you ran this command.
 
-Check if the dependencies are up to date.
+2. Open `resume.md` in Visual Studio Code (or your favorite editor).
+   It's written in Markdown. You can learn how more about this language
+   [here](https://daringfireball.net/projects/markdown/syntax).
 
-```
-context --version
-pandoc --version
-```
+3. Update your resume. Open Terminal (Command + Space, type "Terminal"), then
+   run this command: `docker-compose run --rm resume-make`.
 
-#### Cannot process lua
-Currently pandoc 1.x may be within your distro's repos and the latest version should be used. See the
-[pandoc releases](https://github.com/jgm/pandoc/releases) for your distro.
+4. Open Chrome (or your favorite browser) and visit
+   [this link](file:///Users/annamcasteen/src/resume/output/resume.html) to see your changes.
+ 
+   If you want to see what PDFs will look like, visit
+   [this link](file:///Users/annamcasteen/src/resume/output/resume.pdf) instead.
 
-e.g. for Debian / Ubuntu
-```
-wget https://github.com/jgm/pandoc/releases/download/2.2.1/pandoc-2.2.1-1-amd64.deb
-sudo dpkg -i pandoc-2.2.1-1-amd64.deb
-```
+5. If you like what you see, commit your changes:
+   `git add resume.md && git commit -m "I did a thing." resume.md`
+   (Change "I did a thing" to the thing that you actually did.
 
-#### Context executable cannot be found
-Some users have reported problems where their system does not properly find the ConTeXt
-executable, leading to errors like `Cannot find context.lua` or similar. It has been found
-that running `mtxrun --generate`, ([suggested on texlive-2011-context-problem](
-https://tex.stackexchange.com/questions/53892/texlive-2011-context-problem)), can fix the
-issue.
+6. Push your changes to GitHub: `git push`
+
+7. Within a few minutes, your resume should appear at `https://resume.<your-website>`
