@@ -26,6 +26,7 @@ services:
     build:
       context: .
       dockerfile: ./.docker/resume.dockerfile
+    env_file: .env
     environment:
       GITHUB_URL: https://github.com/carlosonunez/resume
     command: make
