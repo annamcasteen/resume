@@ -130,7 +130,7 @@ References
 
 <div class="fancy-table">
 --------------------  ----------------------------- --------------  --------------------------
-**Thomas Kinsler**    _Mathematics Dept. Co-Chair_  (817) 515-6156    thomas.kinsler@tccd.edu
+**Thomas Kinzeler**   _Mathematics Dept. Co-Chair_  (817) 515-6156    thomas.kinzeler@tccd.edu
 **Ann Triplett**      _Mathematics Dept. Co-Chair_  (817) 515-6659    ann.triplett@tccd.edu
 **Stacy Goldstein**   _Principal_                   (212) 475-8086    sgoldstein@sof.edu
 --------------------  ----------------------------- --------------  --------------------------
