@@ -1,7 +1,7 @@
 OUT_DIR=output
 IN_DIR=.
 STYLE=chmduquesne
-RESUME_TILE="Carlos's Resume | resume.carlosnunez.me"
+RESUME_TILE="$(RESUME_TITLE) | resume.$(TF_VAR_aws_route53_zone)"
 
 all: clean apply_pre_transforms html pdf
 
