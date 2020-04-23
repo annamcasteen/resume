@@ -9,23 +9,25 @@ Anna Casteen
 
 ----
 
-> Creative thinker who explains complex concepts and processes in multiple ways tailored
-> to individual adults and children. User of quantitative and anecdotal data to achieve
-> optimal results. Documented ability to communicate effectively and empathetically.
+<div class="fancy-summary">
+Creative thinker who explains complex concepts and processes in multiple ways tailored
+to individual adults and children. User of quantitative and anecdotal data to achieve
+optimal results. Documented ability to communicate effectively and empathetically.
+</div>
 
 ----
 
 Education
 ---------
 
-2019-Present
-:   **Additional Mathematics Courses**: Texas Woman's University
 
-2009-2010
-:   **M.A.T/Secondary Mathematics** Bard College
-
-2004-2008
-:   **B.S. Mathematics**. Rhodes College
+<div class="fancy-table">
+-------------------------           -------------------------------------------
+**2019-Present**                              **Additional Math Courses** @ TWU
+**2009-2010**                           **MAT, Secondary Math** @ _Bard College_
+**2004-2008**                           **BSci, Mathematics** @ _Rhodes College_
+--------------------------          -------------------------------------------
+</div>
 
 Awards
 --------------
