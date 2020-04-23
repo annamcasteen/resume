@@ -1,5 +1,5 @@
 ---
-name: Update resume.carlosnunez.me
+name: Update my resume
 on:
   push:
 
@@ -23,5 +23,5 @@ jobs:
       - name: Generate resume output iles
         run: ./docker-compose run --rm resume-make
 
-      - name: Update resume.carlosnunez.me
+      - name: Update resume websites
         run: ./docker-compose run --rm terraform apply
