@@ -6,7 +6,11 @@ RUN useradd --user-group --create-home --shell /bin/false app
 ENV HOME=/home/app
 WORKDIR $HOME
 
+# One of the libraries below installs timezone data as a depedency.
+# The installer requires user input to select the correct timezone.
+# This line prevents that from happening.
 RUN apt-get update && \
+    DEBIAN_FRONTEND="noninteractive" apt-get -y install tzdata  && \
     apt-get install -y build-essential \
       wget \
       context \
