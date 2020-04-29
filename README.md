@@ -39,6 +39,8 @@ How do I update it?
    repository: `git clone <url_in_address_bar>`. Git  will create a new folder
    called `resume` from wherever you ran this command.
 
+2. Decrypt env.gpg: `ENV_PASSWORD="Your Password" docker-compose -f docker-compose.ci.yml run --rm decrypt-env`
+
 2. Open `resume.md` in Visual Studio Code (or your favorite editor).
    It's written in Markdown. You can learn how more about this language
    [here](https://daringfireball.net/projects/markdown/syntax).
