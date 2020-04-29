@@ -10,9 +10,7 @@ Anna Casteen
 ----
 
 <div class="fancy-summary">
-Creative thinker who explains complex concepts and processes in multiple ways tailored
-to individual adults and children. User of quantitative and anecdotal data to achieve
-optimal results. Documented ability to communicate effectively and empathetically.
+12 years exemplary experience teaching multiple levels of mathematics content. Creative thinker who explains complex concepts and processes in multiple ways tailored to individual adults and children. User of quantitative and anecdotal data to achieve optimal results. Designer of cohesive curricula. Documented ability to communicate effectively and empathetically.
 </div>
 
 ----
@@ -22,18 +20,18 @@ Education
 
 
 <div class="fancy-table">
--------------------------           ----------------------------------------------------------
-**2019-Present**                        **Additional Math Courses** @ Texas Woman's University
+-------------------------       ----------------------------------------------------------------
+**2019-Present**                 **Additional Math Graduate Courses** @ Texas Woman's University
 **2018-2019**                                     **Personal Enrichment** Tarrant County College
-**2009-2010**                                  **MAT, Secondary Mathematics** @ _Bard College_
-**2004-2008**                                           **BS, Mathematics** @ _Rhodes College_
---------------------------          ----------------------------------------------------------
+**2009-2010**                            **MA, Teaching Secondary Mathematics** @ _Bard College_
+**2004-2008**                                             **BS, Mathematics** @ _Rhodes College_
+--------------------------      ----------------------------------------------------------------
 </div>
 
 Professional Experience
 ------------------------
 
-2016-Present
+July 2016-Present
 : **Tarrant County College District, Northeast**
 : _Instructor/Counselor College Readiness - Mathematics_
 : Hurst, TX
@@ -45,10 +43,10 @@ process and provide instruction in workforce education subjects that positively 
 job-seeking/job skills.
 
 * Taught over 700 students in MATH 0090 courses over four years
-* Taught MATH 0361, Developmental Mathematics 1
-* Taught MATH 1314, College Algebra
+* Taught MATH 0361, Developmental Mathematics 1, MATH 1314, College Algebra, and MATH 1332, Contemporary Mathematics
 * Advanced training for adjunct faculty to encourage cohesive practices within the
 Northeast campus MATH 0090 courses.
+* Provided instructional technology support and troubleshooting to peers using ALEKS, Connect Math, and MyMathLab
 * Helped students navigate the registration progress and choose appropriate
 modality for their next developmental mathematics course
 * Faculty advisor during summer months, benefiting student success and helped
@@ -56,7 +54,7 @@ increase co-requisite enrollment
 * Initiated communication with college-readiness mathematics instructors from
 other campuses to keep informed on best practices
 
-2011-2016
+August 2011-July 2016
 : **School of the Future**, Mathematics Teacher
 : _New York, NY_
 
@@ -70,16 +68,21 @@ geometry. Wrote over 50 college recommendation letters.
 appropriate accommodations to meet the students' needs
 * Created Individualized Educational Plans (IEPs) for students with diagnosed
 learning disabilities in SESIS
-* 11th-grade team leader, responsible for determining agenda items, parent
+* 11th-grade leadership team, responsible for determining agenda items, parent
 outreach, and ensuring accurate records of meetings
 * Attended after school professional development and departmental meetings
 
-2009-2011
+August 2009-August 2011
 : **Urban Assembly School for Wildlife Conservation**, Mathematics Teacher
 : _New York, NY_
 
 First and second year teaching in the Bronx, New York. Created curriculum for 7th-grade
 mathematics and science, as well as 9th-grade integrated algebra.
+
+* Taught over 100 students from different backgrounds, including students with disabilities, non-English speaking immigrants, and students living in poverty. 
+* Member of the 2009-2010 school leadership steering committee
+* Performed peer observations across disciplinary fields
+* Coordinated staff kickball team
 
 Awards
 --------------
@@ -97,26 +100,25 @@ Conferences
 -------------
 
 <div class="fancy-table">
--------------------------                    ------------------------------
-**Re-imagining Developmental Education**                 New York, New York
-**Minority Serving Institutions Convening**                   Dallas, Texas
-**National IBL Conference**                                   Austin, Texas
-**AMTE-TX Social Justice and Equity in**                  Fort Worth, Texas
+-------------------------                           ------------------------------
+**Re-imagining Developmental Education**                        New York, New York
+**Minority Serving Institutions Convening**                          Dallas, Texas
+**National IBL Conference**                                          Austin, Texas
+**AMTE-TX Social Justice and Equity in**                         Fort Worth, Texas
 **Mathematics Education**
-**Acceleration Institute**                                Round Rock, Texas
-**Metamorphosis Student Engagement and**                 New York, New York
-**Rich Problem Solving Professional**
-**Development**
-**Making Meaning of Math: A Focus on**                   New York, New York
+**Acceleration Institute**                                       Round Rock, Texas
+**Metamorphosis Student Engagement and**                        New York, New York
+**Rich Problem Solving Professional Development**
+**Making Meaning of Math: A Focus on**                          New York, New York
 **Discourse**
-**Celebration of Teaching and Learning**                 New York, New York
-**Math Education and Social Justice:**            San Francisco, California
+**Celebration of Teaching and Learning**                        New York, New York
+**Math Education and Social Justice:**                   San Francisco, California
 **Creating Balance in an Unjust World**
-**Let’s Talk Numbers**                                   New York, New York
-**ATLAS Conference**                                    Burlington, Vermont
-**Joint Mathematics Meeting**                         San Diego, California
-**Conference for Women in Mathematics**                   Lincoln, Nebraska
---------------------------                   ------------------------------
+**Let’s Talk Numbers**                                          New York, New York
+**ATLAS Conference**                                           Burlington, Vermont
+**Joint Mathematics Meeting**                                San Diego, California
+**Conference for Women in Mathematics**                          Lincoln, Nebraska
+--------------------------                          ------------------------------
 </div>
 Skills
 -----------
