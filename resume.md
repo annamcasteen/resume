@@ -24,7 +24,7 @@ Education
 <div class="fancy-table">
 -------------------------           ----------------------------------------------------------
 **2019-Present**                        **Additional Math Courses** @ Texas Woman's University
-**2018-2019                                     **Personal Enrichment** Tarrant County College
+**2018-2019**                                     **Personal Enrichment** Tarrant County College
 **2009-2010**                                  **MAT, Secondary Mathematics** @ _Bard College_
 **2004-2008**                                           **BS, Mathematics** @ _Rhodes College_
 --------------------------          ----------------------------------------------------------
