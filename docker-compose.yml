@@ -6,6 +6,7 @@ services:
       dockerfile: ./.docker/resume.dockerfile
     env_file: .env
     environment:
+      TZ: America/Chicago
       GITHUB_URL: https://github.com/carlosonunez/resume
     command: make
     container_name: resume-make
