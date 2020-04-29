@@ -22,11 +22,12 @@ Education
 
 
 <div class="fancy-table">
--------------------------           -------------------------------------------
-**2019-Present**                              **Additional Math Courses** @ TWU
-**2009-2010**                           **MAT, Secondary Math** @ _Bard College_
-**2004-2008**                           **BSci, Mathematics** @ _Rhodes College_
---------------------------          -------------------------------------------
+-------------------------           ----------------------------------------------------------
+**2019-Present**                        **Additional Math Courses** @ Texas Woman's University
+**2018-2019                                     **Personal Enrichment** Tarrant County College
+**2009-2010**                                  **MAT, Secondary Mathematics** @ _Bard College_
+**2004-2008**                                           **BS, Mathematics** @ _Rhodes College_
+--------------------------          ----------------------------------------------------------
 </div>
 
 Professional Experience
@@ -87,7 +88,7 @@ Awards
 -------------------------           -------------------------------------------
 **Cowbell Award**                     Organizing the college readiness program.
 **Math for America**                                      Master Teacher Fellow
-**Math for America**                                                     Fellow
+**Math for America**                                        New Teaching Fellow
 **Robert Allen Scott Award**                              Mathematics research.
 --------------------------          -------------------------------------------
 </div>
@@ -120,7 +121,7 @@ Conferences
 Skills
 -----------
 Technical
-: Google G-Suite, Microsoft Office (Word, Excel, PowerPoint), Adobe Photoshop, Blackboard, Colleague
+: Google G-Suite, Microsoft Office (Word, Excel, PowerPoint), Adobe Photoshop, Blackboard, Colleague, LaTeX
 
 Technology
 : AWS
