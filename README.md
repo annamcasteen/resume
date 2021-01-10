@@ -41,6 +41,8 @@ How do I update it?
 
 2. Decrypt env.gpg: `ENV_PASSWORD="Your Password" docker-compose -f docker-compose.ci.yml run --rm decrypt-env`
 
+### **Steps 1, 2, and 2 have already been done.  Start with step 2 below:**
+
 2. Open `resume.md` in Visual Studio Code (or your favorite editor).
    It's written in Markdown. You can learn how more about this language
    [here](https://daringfireball.net/projects/markdown/syntax).
@@ -48,16 +50,15 @@ How do I update it?
 3. Update your resume. Open Terminal (Command + Space, type "Terminal"), then
    run this command: `docker-compose run --rm resume-make`.
 
-4. Open Chrome (or your favorite browser) and visit
-   [this link](file:///Users/annamcasteen/src/resume/output/resume.html) to see your changes.
+4. Use Terminal to open resume.html  `open output/resume.html`  This opens in Safari (default browser).  
  
-   If you want to see what PDFs will look like, visit
-   [this link](file:///Users/annamcasteen/src/resume/output/resume.pdf) instead.
+   If you want to see what PDFs will look like, use Terminal and put `open output/resume.pdf`
 
-5. If you like what you see, commit your changes:
+5. If you like what you see, commit your changes by copying into Terminal:
    `git add resume.md && git commit -m "I did a thing." resume.md`
-   (Change "I did a thing" to the thing that you actually did.
+   (Change "I did a thing" to the thing that you actually did.)
 
-6. Push your changes to GitHub: `git push`
+6. Push your changes to GitHub in Terminal: `git push`
 
-7. Within a few minutes, your resume should appear at `https://resume.<your-website>`
+7. Within a few minutes, your resume should appear at `https://resume.<your-website>`  You can check
+   the progess on github.com by signing into your account and clicking on the annacasteen resume repository.
