@@ -1,7 +1,7 @@
 Anna Casteen
 ============
 <center class="address">
-🏡 2100 Heritage Avenue, #1216, Euless, TX 76039 **|** Moving to **Austin, TX** during Summer 2020
+🏡 2100 Heritage Avenue, #1216, Euless, TX 76039 **|** **Willing to relocate** 
 
 📞 (901) 871-6458 **|** 📧 anna.m.casteen@gmail.com
 
@@ -10,7 +10,7 @@ Anna Casteen
 ----
 
 <div class="fancy-summary">
-12 years exemplary experience teaching multiple levels of mathematics content. Creative thinker who explains complex concepts and processes in multiple ways tailored to individual adults and children. User of quantitative and anecdotal data to achieve optimal results. Designer of cohesive curricula. Documented ability to communicate effectively and empathetically.
+13 years exemplary experience teaching multiple levels of mathematics content. Creative thinker who explains complex concepts and processes in multiple ways tailored to individual adults and children. User of quantitative and anecdotal data to achieve optimal results. Designer of cohesive curricula. Documented ability to communicate effectively and empathetically.
 </div>
 
 ----
@@ -20,9 +20,9 @@ Education
 
 
 <div class="fancy-table">
--------------------------       ----------------------------------------------------------------
-**2019-Present**                 **Additional Math Graduate Courses** @ Texas Woman's University
-**2018-2019**                                     **Personal Enrichment** Tarrant County College
+-------------------------      -----------------------------------------------------------------
+**2019-2020**                  **Additional Math Graduate Courses** @ _Texas Woman's University_
+**2018-2020**                                 **Personal Enrichment** @ _Tarrant County College_
 **2009-2010**                            **MA, Teaching Secondary Mathematics** @ _Bard College_
 **2004-2008**                                             **BS, Mathematics** @ _Rhodes College_
 --------------------------      ----------------------------------------------------------------
@@ -43,16 +43,16 @@ process and provide instruction in workforce education subjects that positively 
 job-seeking/job skills.
 
 * Taught over 700 students in MATH 0090 courses over four years
-* Taught MATH 0361, Developmental Mathematics 1, MATH 1314, College Algebra, and MATH 1332, Contemporary Mathematics
+* Taught MATH 0361: Developmental Mathematics 1, MATH 1314: College Algebra, and MATH 1332: Contemporary Mathematics, including co-requisite sections.
 * Advanced training for adjunct faculty to encourage cohesive practices within the
 Northeast campus MATH 0090 courses.
-* Provided instructional technology support and troubleshooting to peers using ALEKS, Connect Math, and MyMathLab
+* Provided instructional technology support and troubleshooting to peers using ALEKS, Connect Math, and MyMathLab.
 * Helped students navigate the registration progress and choose appropriate
-modality for their next developmental mathematics course
+modality for their next developmental mathematics course.
 * Faculty advisor during summer months, benefiting student success and helped
-increase co-requisite enrollment
+increase co-requisite enrollment.
 * Initiated communication with college-readiness mathematics instructors from
-other campuses to keep informed on best practices
+other campuses to keep informed on best practices.
 
 August 2011-July 2016
 : **School of the Future**, Mathematics Teacher
@@ -63,14 +63,14 @@ geometry. Created videos for students who were struggling or wanted to advance.
 Advised 20+ students on their exhibition thesis papers involving calculus, statistics, and
 geometry. Wrote over 50 college recommendation letters.
 
-* Taught over 400 students in an urban small school setting
+* Taught over 400 students in an urban small school setting.
 * Planned with ICT teachers and used differentiation in lesson plans to make
-appropriate accommodations to meet the students' needs
+appropriate accommodations to meet the students' needs.
 * Created Individualized Educational Plans (IEPs) for students with diagnosed
-learning disabilities in SESIS
+learning disabilities in SESIS.
 * 11th-grade leadership team, responsible for determining agenda items, parent
-outreach, and ensuring accurate records of meetings
-* Attended after school professional development and departmental meetings
+outreach, and ensuring accurate records of meetings.
+* Attended after school professional development and departmental meetings.
 
 August 2009-August 2011
 : **Urban Assembly School for Wildlife Conservation**, Mathematics Teacher
@@ -80,19 +80,19 @@ First and second year teaching in the Bronx, New York. Created curriculum for 7t
 mathematics and science, as well as 9th-grade integrated algebra.
 
 * Taught over 100 students from different backgrounds, including students with disabilities, non-English speaking immigrants, and students living in poverty. 
-* Member of the 2009-2010 school leadership steering committee
-* Performed peer observations across disciplinary fields
-* Coordinated staff kickball team
+* Member of the 2009-2010 school leadership steering committee.
+* Performed peer observations across disciplinary fields.
+* Coordinated staff kickball team.
 
 Awards
 --------------
 
 <div class="fancy-table">
 -------------------------           -------------------------------------------
-**Cowbell Award**                     Organizing the college readiness program.
+**Cowbell Award**                      Organizing the college readiness program
 **Math for America**                                      Master Teacher Fellow
 **Math for America**                                        New Teaching Fellow
-**Robert Allen Scott Award**                              Mathematics research.
+**Robert Allen Scott Award**                               Mathematics research
 --------------------------          -------------------------------------------
 </div>
 
@@ -146,7 +146,7 @@ Hobbies and Interests
 * Reading
 * Travel
 * Mathematics
-* Crafts
+* Puzzles and games
 
 ----
 
